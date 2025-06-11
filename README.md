@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <YOUR NAME></h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Open+Source+Contributor;Clean+Code+Lover+%F0%9F%A7%AA;Always+Learning..." alt="Typing SVG" />
 </p>
@@ -66,11 +65,12 @@ I am a student majoring in information technology at Da Nang University of Scien
   <a href="mailto:hung054724@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://facebook.com/caccis](https://www.facebook.com/hung.thaivietquoc.1)" target="_blank">
+  <a href="https://www.facebook.com/hung.thaivietquoc.1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/caccis](https://www.instagram.com/rgrey__21/)" target="_blank">
+  <a href="https://www.instagram.com/rgrey__21/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
